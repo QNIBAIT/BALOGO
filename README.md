@@ -3,9 +3,6 @@
 
 重点
 
-
-改编python作者：https://github.com/ldcivan/BA_logo
-
 原作者：Https://github.com/nulla2011
 
 使用的资源:https://GitHub.com/nulla2011/bluearchive-logo
